@@ -2,7 +2,7 @@
 
 Formulário de cadastro (criação de conta) totalmente responsivo, desenvolvido com **HTML, CSS e JavaScript puro**, com validação de campos no front-end.
 
-Projeto criado como prática de fundamentos de desenvolvimento web durante a graduação em Engenharia de Software (3º semestre).
+🔗 **[Ver projeto online](https://cadastro-responsivo-3lvrs4133-gabriel-luz.vercel.app)**
 
 ## 📋 Sobre o projeto
 
